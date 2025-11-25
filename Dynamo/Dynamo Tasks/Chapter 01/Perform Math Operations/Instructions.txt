@@ -1,0 +1,24 @@
+1. Difficulty badge color: Easy
+
+2. Task title: 
+
+3. Image URL: ""
+
+4. Task Goal:     
+
+5. Task Details:  
+
+6. Expected Output:  
+
+7. Task file link: ""
+
+8. Arabic audio URL: ""
+
+9. English audio URL: ""
+
+10. Tags:  
+
+11. Related lessons:
+
+
+12. Card Background color: GREY 

@@ -2,19 +2,19 @@
 
 2. Task title: Add Two Numbers
 
-3. Image URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/amr4553_imagine_in_coding_a_concept_in_programming_of_EXTRACT_96ebac09-9fc1-42a6-995b-9a42bc3eacae_2.png"
+3. Image URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/Dynamo/Dynamo%20Tasks/Chapter%2001/Add%20Two%20Numbers/img1.png"
 
 4. Task Goal: Test your ability to perform a simple arithmetic operation    
 
-5. Task Details: Using the room areas from the previous task, label each as “Large” if greater than 25 m² or “Small” if less. 
+5. Task Details: Create two numbers (10 and 5) and add them together to produce a result. 
 
 6. Expected Output: 15 
 
-7. Task file link: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/DefineTypesFromEtabs.rar"
+7. Task file link: NO FILE
 
-8. Arabic audio URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/WhatsApp%20Audio%202025-11-23%20at%2010.29.08%20AM%20(1).mpeg"
+8. Arabic audio URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/Dynamo/Dynamo%20Tasks/Chapter%2001/Add%20Two%20Numbers/Arbic1.mp3"
 
-9. English audio URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/WhatsApp%20Audio%202025-11-23%20at%2010.29.08%20AM%20(1).mpeg"
+9. English audio URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/Dynamo/Dynamo%20Tasks/Chapter%2001/Add%20Two%20Numbers/Eng1.mp3"
 
 10. Tags: #numbers #math #basiclogic #watchnode  
 
