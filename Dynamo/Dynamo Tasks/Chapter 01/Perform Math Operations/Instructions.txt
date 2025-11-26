@@ -1,24 +1,28 @@
 1. Difficulty badge color: Easy
 
-2. Task title: 
+2. Task title: Perform Math Operations
 
-3. Image URL: ""
+3. Image URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/Dynamo/Dynamo%20Tasks/Chapter%2001/Perform%20Math%20Operations/img1.png"
 
-4. Task Goal:     
+4. Task Goal: Confirm understanding of arithmetic operators. 
 
-5. Task Details:  
+5. Task Details:   Using two numbers (8 and 3), calculate the results of subtraction, multiplication, and division. 
 
-6. Expected Output:  
+6. Expected Output: 
+Subtract → 5  
+Multiply → 24  
+Divide → 2.67  
 
-7. Task file link: ""
+7. Task file link: NO FILE
 
-8. Arabic audio URL: ""
+8. Arabic audio URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/Dynamo/Dynamo%20Tasks/Chapter%2001/Perform%20Math%20Operations/ar1.mp3"
 
-9. English audio URL: ""
+9. English audio URL: "https://github.com/bimaestro-tech/DynamoCourseTasks/raw/refs/heads/main/Dynamo/Dynamo%20Tasks/Chapter%2001/Perform%20Math%20Operations/en1.mp3"
 
-10. Tags:  
+10. Tags:  #numbers #math #operators 
 
 11. Related lessons:
-
+#CH1_L4 (Programming Concepts – Operators and Math Logic)
+#CH3_L3 (Nodes Operations – Mathematical Functions)  
 
 12. Card Background color: GREY 
