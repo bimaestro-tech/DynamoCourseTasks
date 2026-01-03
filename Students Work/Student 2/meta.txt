@@ -1,0 +1,7 @@
+https://www.linkedin.com/posts/mohamed-adel-abdulfattah-4a4853366_dynamo-revit-bim-activity-7406619108818980864-j_-1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABVEFdgB3CaovuiLQgByJWUfMfXIroDw120
+
+
+Mohamed Adel AbdulfattahMohamed Adel Abdulfattah
+
+
+Automated a Dynamo workflow that creates and updates parametric wall openings for duct runs across multiple walls—sizing each opening to the duct and insulation thickness, with fully repeatable re-runs and zero manual Revit modeling.
